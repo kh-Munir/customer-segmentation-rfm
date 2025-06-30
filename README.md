@@ -10,7 +10,6 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
   - Data cleaning and preprocessing
   - RFM score calculation for customer segmentation
   - Customer segment labeling (Champion, Loyal Customer, Potential Loyalist, etc.)
-  - Sales performance analysis over time
   - Interactive dashboards created with Tableau
 
 ## Features
