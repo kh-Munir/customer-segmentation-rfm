@@ -16,7 +16,6 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 
 - Calculates RFM metrics and scores for each customer
 - Segments customers based on RFM scores into meaningful groups
-- Analyzes sales trends and performance metrics
 - Visualizes data with dynamic and interactive Tableau dashboards
 - Provides actionable insights for marketing and sales teams
 
